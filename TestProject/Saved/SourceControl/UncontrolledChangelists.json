@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/My Games/fntastic/TestProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/My Games/fntastic/TestProject/Content/Blueprints/BP_Enemy_AI.uasset",
+				"D:/My Games/fntastic/TestProject/Content/Animations/AI/WalkBlendSpace1D.uasset",
+				"D:/My Games/fntastic/TestProject/Content/Animations/AI/AP_Enemy_AI.uasset",
+				"D:/My Games/fntastic/TestProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/A4/CIWMR0VZNBQ9DLAD3Q61LC.uasset",
+				"D:/My Games/fntastic/TestProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/IP/8IMWH0W4A0L1BJ8527GV9E.uasset",
+				"D:/My Games/fntastic/TestProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/VT/C296RTN0M7OECVGCNSN7R7.uasset",
+				"D:/My Games/fntastic/TestProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/80/RCXALNT3NG94XMV0V6D4XE.uasset",
+				"D:/My Games/fntastic/TestProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/G2/DXY1ROMU8NVTUPH999VNGV.uasset",
+				"D:/My Games/fntastic/TestProject/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
+				"D:/My Games/fntastic/TestProject/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"D:/My Games/fntastic/TestProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/My Games/fntastic/TestProject/Content/Blueprints/WB_AIHealthBar.uasset"
+			]
+		}
+	]
+}
